@@ -7,7 +7,7 @@
 
 # How to create youre own extension 
 ## To create youre own extension you need to understand our HTMLE language it is prety simmular to HTML but with some ad-ons.
-## For example <extension_funcion><implement: "FUNCTION_NAME"></extension_function>
+## For example ```<extension_funcion><implement: "FUNCTION_NAME"></extension_function>```
 
 # THIS PROJECT IS IN EARLY DEVELOPMENT AND THIS IS ALL WE CAN PROVIDE UP TO THIS DATE IF YOU WANT TU SUPPORT US JOIN OUR DISCORD SERVER
 https://discord.gg/dPH7cA5v4S
